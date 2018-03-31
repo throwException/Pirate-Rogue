@@ -78,10 +78,10 @@ $color-content-h6:              $color-text;
 // Fonts
 //////////////////////////////////////////////////////////////////////////////
 $font-family-sans-serif:    'DejaWeb', sans-serif;
-$font-family-serif:         Georgia, "Times New Roman", Times, serif;
+$font-family-serif:         "LibreBodoni", Georgia, "Times New Roman", Times, serif;
 $font-family-monospace:     Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", "Courier New", "Courier 10 Pitch", Courier,monospace;
 //$font-family-headlines:     'roboto', sans-serif;
-$font-family-headlines:     Georgia, "Times New Roman", Times, serif;
+$font-family-headlines:     $font-family-serif;
 
 $font-family-base:          $font-family-serif;
 $font-family-sitetitle:     $font-family-headlines;

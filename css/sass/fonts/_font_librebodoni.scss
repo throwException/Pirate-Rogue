@@ -1,0 +1,38 @@
+/*-----------------------------------------------------------------------------------*/
+/* Font File Dejaweb
+*    DejaWeb 
+*    by AnatoleType
+/*-----------------------------------------------------------------------------------*/
+
+
+@font-face {
+    font-family: 'LibreBodoni';
+    src: url('../fonts/librebodoni/LibreBodoni-Bold.otf');
+    src: url('../fonts/librebodoni/LibreBodoni-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}	
+
+@font-face {
+    font-family: 'LibreBodoni';
+    src: url('../fonts/librebodoni/LibreBodoni-BoldItalic.otf');
+    src: url('../fonts/librebodoni/LibreBodoni-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LibreBodoni';
+    src: url('../fonts/librebodoni/LibreBodoni-Italic.otf');
+    src: url('../fonts/librebodoni/LibreBodoni-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LibreBodoni';
+    src: url('../fonts/librebodoni/LibreBodoni-Regular.otf');
+    src: url('../fonts/librebodoni/LibreBodoni-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

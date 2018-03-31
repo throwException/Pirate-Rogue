@@ -70,6 +70,35 @@ Mixins  for borders and gradients
   src: url("../fonts/dejaweb/DejaWeb.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
+/*-----------------------------------------------------------------------------------*/
+/* Font File Dejaweb
+*    DejaWeb 
+*    by AnatoleType
+/*-----------------------------------------------------------------------------------*/
+@font-face {
+  font-family: 'LibreBodoni';
+  src: url("../fonts/librebodoni/LibreBodoni-Bold.otf");
+  src: url("../fonts/librebodoni/LibreBodoni-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'LibreBodoni';
+  src: url("../fonts/librebodoni/LibreBodoni-BoldItalic.otf");
+  src: url("../fonts/librebodoni/LibreBodoni-BoldItalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic; }
+@font-face {
+  font-family: 'LibreBodoni';
+  src: url("../fonts/librebodoni/LibreBodoni-Italic.otf");
+  src: url("../fonts/librebodoni/LibreBodoni-Italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: 'LibreBodoni';
+  src: url("../fonts/librebodoni/LibreBodoni-Regular.otf");
+  src: url("../fonts/librebodoni/LibreBodoni-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal; }
 /*
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -2426,7 +2455,7 @@ p.site-title,
 p.section-about-text,
 p.text-big,
 p.text-small {
-  font-family: Georgia, "Times New Roman", Times, serif; }
+  font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif; }
 
 .entry-content blockquote p,
 .entry-content p span.uppercase,
@@ -2445,7 +2474,7 @@ textarea,
 a.standard-btn,
 .big-instagram-wrap .clear,
 .single-product .entry-summary h1 {
-  font-family: Georgia, "Times New Roman", Times, serif; }
+  font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif; }
 
 /*
 * optional grid-Framework, compiled from bootstrap sass 
@@ -3091,7 +3120,7 @@ html {
   -moz-osx-font-smoothing: grayscale; }
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif;
   display: block;
   color: #1a1a1a;
   background: #ffffff;
@@ -3417,7 +3446,7 @@ p.site-description {
   border-bottom: 2px solid #51a8dd; }
 
 #desktop-navigation ul.menu {
-  font-family: Georgia, "Times New Roman", Times, serif; }
+  font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif; }
   #desktop-navigation ul.menu li.menu-item-has-children > a {
     margin-right: 0px; }
   #desktop-navigation ul.menu li.menu-item-has-children > a::after {
@@ -6801,7 +6830,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
-  font-familiy: Georgia, "Times New Roman", Times, serif; }
+  font-familiy: "LibreBodoni", Georgia, "Times New Roman", Times, serif; }
 
 #section-fullwidth h1,
 .site-content h1,
@@ -7463,7 +7492,7 @@ blockquote {
   padding: 20px 20px 20px 45px;
   margin: 10px 20px 30px;
   position: relative;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif;
   border-left-style: solid;
   border-left-width: 15px;
   border-right-style: solid;
@@ -13276,7 +13305,7 @@ ul.picrew-social-icons li {
 * Team Crew Styles
 */
 .picrew-grid-wrapper, .pirate-crew-single {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
@@ -13308,7 +13337,7 @@ ul.picrew-social-icons li {
     border-bottom: 0;
     outline: none; }
   .picrew-grid-wrapper .picrew-grid, .pirate-crew-single .picrew-grid {
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: "LibreBodoni", Georgia, "Times New Roman", Times, serif;
     list-style: none;
     padding: 30px 0;
     margin: 0 -15px; }
