@@ -10,7 +10,7 @@
   @include px2rem( $font-size-smaller);
 
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   color: $color-text;
   margin-bottom: 25px;
@@ -97,7 +97,7 @@
   @include px2rem( $font-size-smaller);
   line-height: 1.15;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.5px;
   border-bottom: 2px solid $color-text;
 }

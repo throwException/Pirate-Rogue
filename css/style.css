@@ -3281,7 +3281,7 @@ p.site-description {
       padding: 4px 0 0 0;
       font-size: 12px;
       font-size: 0.75rem;
-      text-transform: uppercase;
+      text-transform: none;
       letter-spacing: 1px; }
       .hide-tagline p.site-description {
         display: none !important; } }
@@ -3830,7 +3830,7 @@ p.site-description {
       border-style: solid;
       font-size: 15px;
       font-size: 0.9375rem;
-      text-transform: uppercase;
+      text-transform: none;
       letter-spacing: 3px; }
     .desktop-search .searchform {
       height: 0;
@@ -3927,7 +3927,7 @@ main {
   top: 11px;
   right: -2px;
   display: block;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 3px;
   font-weight: 600; }
 
@@ -4158,7 +4158,7 @@ main {
     padding: 20px 0 0 0;
     font-weight: 600;
     letter-spacing: 3px;
-    text-transform: uppercase;
+    text-transform: none;
     font-style: normal; }
 
 .section-about-column-two {
@@ -4912,7 +4912,7 @@ main {
   padding: 5px 0 0 0;
   letter-spacing: 1px; }
   .single-post .canonical-link span {
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: 600; }
   .single-post .canonical-link span:after {
     content: '\2022';
@@ -4920,7 +4920,7 @@ main {
 .single-post .entry-tags {
   padding: 30px 0 0 0;
   letter-spacing: 1px;
-  text-transform: uppercase; }
+  text-transform: none; }
   .single-post .entry-tags span:after {
     content: '\2022';
     padding: 0 7px; }
@@ -4969,7 +4969,7 @@ main {
 .authorbox h3.author-title {
   margin: 0;
   padding: 0;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px; }
   .authorbox h3.author-title span {
     padding: 0 5px 0 0;
@@ -5471,7 +5471,7 @@ article header {
   font-size: 0.9375rem;
   line-height: 1.3125rem;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   color: #1a1a1a;
   margin-bottom: 25px; }
@@ -5548,7 +5548,7 @@ article header {
   line-height: 1.3125rem;
   line-height: 1.15;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.5px;
   border-bottom: 2px solid #1a1a1a; }
 
@@ -6652,7 +6652,7 @@ p.site-title {
 #desktop-navigation ul li a,
 .site-content p.nocomments,
 .page-links {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px; }
 
 /* --- Links + Colors --- */
@@ -7621,7 +7621,7 @@ blockquote
   line-height: 15.4px;
   font-size: 0.6875rem;
   line-height: 0.9625rem;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px; }
   .entry-meta a,
   .entry-cats a {
@@ -8547,7 +8547,7 @@ a.standard-btn.secondcolor-btn {
   border: 2px solid #3399ff;
   background: #3399ff;
   color: #fff;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 3px;
   outline: none;
   font-weight: 500; }
@@ -8567,7 +8567,7 @@ a.standard-btn.secondcolor-btn {
   border-style: solid;
   background: none;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 3px;
   text-align: left;
   outline: none; }
@@ -8625,7 +8625,7 @@ a.standard-btn.secondcolor-btn {
     border-top: 1px solid #1a1a1a;
     display: block;
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 3px; }
   #comments .comment-details {
     position: relative;

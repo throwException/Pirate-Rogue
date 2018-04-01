@@ -184,7 +184,7 @@
         padding: 5px 0 0 0;
         letter-spacing: 1px;
         span {
-             text-transform: uppercase;
+             text-transform: none;
 	     font-weight: 600;
         }
         span:after {
@@ -195,7 +195,7 @@
   .entry-tags {
         padding: 30px 0 0 0;
         letter-spacing: 1px;
-        text-transform: uppercase;
+        text-transform: none;
         span:after {
             content: '\2022';
             padding: 0 7px;
@@ -263,7 +263,7 @@
   h3.author-title {
     margin: 0;
     padding: 0;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     span {
       padding: 0 5px 0 0;

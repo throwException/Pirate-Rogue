@@ -4,7 +4,7 @@
 .entry-meta, 
 .entry-cats {
     @include px2rem($font-size-xsmall); 
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
 
     a {
