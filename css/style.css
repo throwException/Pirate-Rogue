@@ -6882,7 +6882,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.9375rem;
   line-height: 1.3125rem;
   padding: 3px 0;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px; }
 #section-fullwidth h6,
 .site-content h6,
@@ -6910,7 +6910,7 @@ h1.site-title {
   line-height: 2.1875rem; }
 
 .single-post .entry-header h1.entry-title, .entry-header h1.entry-title, .attachment h1.entry-title, .page h1.entry-title, h1.entry-title, .archive-header h1.archive-title, .site-content h1, .entry-content h1 {
-  text-transform: uppercase;
+  text-transform: none;
   border-bottom: 7px;
   border-style: solid;
   margin-bottom: 50px;
@@ -6982,7 +6982,7 @@ h3#reply-title {
   display: block;
   line-height: 1;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.5px; }
 #footer-social h3.socialmedia {
   font-size: 14px;
@@ -6995,7 +6995,7 @@ h3#reply-title {
   padding: 8px 15px 0px 0px; }
 
 .footer-menu h3.footer-menu-title {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px; }
 
 .footer-menu h3.footer-menu-title,

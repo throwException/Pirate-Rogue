@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
     h5 {
 	@include px2rem($font-size-h5);
 	padding: 3px 0;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 1px;
     }
     h6 {
@@ -71,7 +71,7 @@ h1 {
     .archive-header &.archive-title,
     .site-content &,
     .entry-content & {       
-        text-transform: uppercase;
+        text-transform: none;
         border-bottom: 7px;
         border-style:  solid;
         margin-bottom: 50px;
@@ -157,7 +157,7 @@ h3 {
 	display: block;
 	line-height: 1;
 	font-weight: 600;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 1.5px;
     }
     
@@ -171,7 +171,7 @@ h3 {
 }
 
 .footer-menu h3.footer-menu-title {
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
 }
 
